@@ -26,11 +26,11 @@ Chapter 10. 영상 속의 물체 추적하기( 	object_tracking_kf.ipynb)
 Chapter 11. 기울기 자세 측정하기
 (pose_orientation_gyro.ipynb,pose_orientation_fusion_kf.ipynb,pose_orientation_accel2.ipynb)
 
-Chapter 12. 확장 칼만 필터
+Chapter 12. 확장 칼만 필터(radar_ekf.ipynb,pose_orientation_fusion_ekf.ipynb) 
 
 Chapter 13. 무향 칼만 필터
 
 Chapter 14. 파티클 필터
 
 관련 블로그
-https://blog.naver.com/skwd123/221827247721
+https://blog.naver.com/skwd123/221827247721 칼만 필터에서는 시스템 모델이 더욱 중요하다는 사실을 알게 되었습니다.
